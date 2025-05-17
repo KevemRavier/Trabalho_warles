@@ -1,0 +1,138 @@
+﻿TRABALHO DE LÓGICA DO PROFESSOR WARLES
+ALUNO: KEVEM RAVIER ALVES DE SOUSA NERI
+
+
+1 PASSO A PASSO  
+1 Buscar a lampada reserva  
+2 Pegar a escada  
+3 Posicionar a escada embaixo da lampada queimada  
+4 Subir na escada com cuidado  
+5 Retirar a lampada velha  
+6 Colocar a lampada nova no lugar  
+
+
+2 CALCULO DO MDC  
+Fatores de 36:  
+36 = 2² x 3²  
+
+
+Fatores de 60:  
+60 = 2² x 3 x 5  
+
+
+Fatores comuns: 2² e 3  
+MDC (36, 60): 2² x 3 = 12  
+
+
+3 PROBLEMA DO LOBO, BODE E ALFAFA  
+Regras:  
+O barco so cabe duas coisas (homem + uma coisa)  
+O homem deve sempre pilotar o barco  
+O lobo nao pode ficar sozinho com o bode  
+O bode nao pode ficar sozinho com a alfafa  
+
+
+Solução:  
+1 Homem leva o bode para a margem direita  
+2 Deixa o bode la e volta sozinho  
+3 Leva o lobo para a direita  
+4 Traz o bode de volta para a esquerda  
+5 Leva a alfafa para a direita  
+6 Volta sozinho  
+7 Leva o bode para a direita novamente  
+
+
+4 PROBLEMA DOS CANIBAIS E JESUITAS  
+Regras:  
+3 canibais (C) e 3 jesuitas (J)  
+Barco suporta ate 2 pessoas  
+Nunca deixar mais canibais que jesuitas em qualquer margem  
+
+
+Solucao:
+1 Levar 1J e 1C para a direita  
+2 Voltar com 1J  
+3 Levar 2C para a direita  
+4 Voltar com 1C  
+5 Levar 2J para a direita  
+6 Voltar com 1J e 1C  
+7 Levar 2J para a direita  
+8 Voltar com 1C  
+9 Levar 2C para a direita  
+10 Finalizar com todos na margem direita  
+
+
+5 TORRE DE HANOI (3 DISCOS)  
+Regras:
+Mover um disco por vez 
+Nao colocar um disco maior sobre um menor  
+
+
+Passos:  
+1 Disco 1 para haste B  
+2 Disco 2 para haste C  
+3 Disco 1 para haste C  
+4 Disco 3 para haste B  
+5 Disco 1 para haste A  
+6 Disco 2 para haste B  
+7 Disco 1 para haste B  
+
+
+6 ENIGMA DO ELEVADOR  
+Resumo:  
+Amanda: Terreo (livro)  
+Bete: 3 andar (vestido)  
+Camila: 2 andar (bolsa)  
+Divina: 2 andar (gravata)  
+Elisa: 5 andar (candeeiro)  
+Filomena: 6 andar (chapeu)  
+
+
+7 PROBLEMA DOS BARRIS  
+Capacidades:  
+A: 8L (vazio)  
+B: 5L (cheio)  
+C: 3L (cheio)  
+
+
+Passos:
+1 Transferir de C para A: A=3, B=5, C=0  
+2 Transferir de B para C: A=3, B=2, C=3  
+3 Transferir de C para A: A=6, B=2, C=0  
+4 Transferir de B para C: A=6, B=0, C=2  
+5 Transferir de A para B: A=1, B=5, C=2  
+6 Transferir de B para C: A=1, B=4, C=3  
+7 Transferir de C para A: A=4, B=4, C=0  
+
+
+8 ENIGMA DOS MUSICOS  
+Solucao:  
+Antonio: Violino  
+Joao: Harpa  
+Francisco: Piano  
+
+
+9 BEBIDAS FAVORITAS  
+Atribuicoes:
+Joao: Limonada  
+Miguel: Guarana  
+Nadia: Whisky  
+Silvia: Champanhe  
+Afonso: Agua  
+Cristina: Vermute  
+Geraldo: Vinho  
+Julio: Cafe  
+Maria: Laranjada  
+Maximo: Vodka  
+Ivone: Cha  
+Manuel: Cerveja  
+
+
+10 COMPETICAO ESPORTIVA  
+Resultados:  
+- Salto:  
+  1 Gumercindo, 2 Teodoro, 3 Barnabe  
+- Arremesso:  
+  1 Barnabe, 2 Gumercindo, 3 Teodoro  
+- 100m rasos:  
+  1 Teodoro, 2 Barnabe, 3 Gumercindo
