@@ -1,0 +1,27 @@
+#include <iostream>
+#include <string>
+using namespace std;
+  int main() {
+    //Declaração de variaveil
+    float altura,peso_ideal;
+    string nome_da_pesssoa;
+    //Declaração de costantes
+    const float k=72.7;
+    const int b=58;
+    const double MAGR=18.5;
+    const double NORM=24.9;
+    const double SOBRPS=29.9;
+    const double OBSI=30.0;
+
+    //entrada de dados
+    cout<<"Qual seu nome? "<<endl;
+    cin>>nome_da_pesssoa;
+   cout<<"Qual sua altura? "<<endl;
+    cin>>altura;
+    //processamento
+    peso_ideal=(k*altura)-b;
+    //funcao
+    if(peso_ideal=)
+    //saida dos dados
+    cout<<("o peso ideal da"<<,nome_da_pesssoa, "E ",peso_ideal)
+  }
